@@ -1,16 +1,3 @@
 body{
-    /* background-image: url("images/Background.png"); */
-    background-color: #FFAA00;
-    background-size: cover;
-}
-
-img{
-    width:50%;
-}
-
-.icon-container{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    margin:auto;
+    fon
 }
