@@ -11,3 +11,11 @@ body{
     margin: 0 auto;
     padding: 10px;
 }
+/* can control size of images */
+.icon{
+    width:200px;
+}
+
+.person{
+    width:400px;
+}
